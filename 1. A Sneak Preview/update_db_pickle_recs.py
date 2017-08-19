@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pickle
 
 with open('sue.pkl', 'rb') as sue_file:
