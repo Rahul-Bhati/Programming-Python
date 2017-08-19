@@ -6,4 +6,4 @@ db = load_dbase()
 db['sue']['pay'] *= 1.10
 db['tom']['name'] = 'Tom Tom'
 
-storeDbase(db)
+store_dbase(db)
